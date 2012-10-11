@@ -1,1 +1,2 @@
-\n# A package to be used as a subpackage
+
+#	A package to be used as a subpackage
